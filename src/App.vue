@@ -3,7 +3,8 @@
     <topo :user="user" />
     <banner />
     <router-view />
-    <!-- <produto />
+    <produto />
+    <!-- 
     <carrinho /> -->
     <rodape />
   </div>

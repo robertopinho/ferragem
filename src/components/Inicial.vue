@@ -11,12 +11,3 @@
   </div>
 </template>
 
-
-
-Tamanho component
-Style
-width: 100px;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-}
